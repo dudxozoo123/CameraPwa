@@ -1,0 +1,7 @@
+{
+  "name": "CameraPwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
